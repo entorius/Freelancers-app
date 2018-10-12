@@ -1,0 +1,36 @@
+.Job {
+    width: 80%;
+    border: 1px solid #eee;
+    border-right: none;
+    border-left: none;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+}
+
+.NameAndOccupation {
+    margin-left: 10%;
+}
+
+.Name {
+    font-size: 20px;
+    line-height: 0px;
+    color: #5C9210;
+}
+
+.Description {
+    width: 95%;
+}
+
+.Occupation {				
+    font-style: italic;
+    margin-top: none;
+    padding: none;
+}
+
+.AdditionalInfo {
+    font-size: 10pt;
+    display: flex;
+    line-height: 0px;
+}

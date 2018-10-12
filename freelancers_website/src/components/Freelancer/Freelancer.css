@@ -1,0 +1,44 @@
+.FreelancerDescription {
+
+    width: 80%;
+    border: 1px solid #eee;
+    border-right: none;
+    border-left: none;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+}
+
+.NameAndOccupation {
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.Name {
+    font-size: 20px;
+}
+
+.Description {
+    width: 95%;
+}
+
+.Occupation {				
+    font-style: italic;
+    margin-top: none;
+    padding: none;
+}
+
+.Image {
+    height: 100px;
+    width: 100px;
+}
+
+.ImgAndBtn {
+    margin-right: 0;
+    margin-top: 0;
+    display: block;
+} 
+
+
+

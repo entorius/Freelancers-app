@@ -1,0 +1,22 @@
+.ButtonS {
+    background-color: transparent;
+    border: none;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    color: #E85300;
+}
+
+.ButtonS:first-of-type {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.ButtonS:disabled {
+    color: #ccc;
+    cursor: not-allowed;
+}
